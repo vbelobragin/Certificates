@@ -3,8 +3,8 @@ Please, use them as a proof of my CV information.
 
 Certificates list:
 1. Data science management
-Building Data Science Team (Johns Hopkins University)
-Managing Data Analysis (Johns Hopkins University)
+- Building Data Science Team (Johns Hopkins University)
+- Managing Data Analysis (Johns Hopkins University)
 2. General programming
 Python for data science (IBM)
 Data Visualization with Python (IBM)
