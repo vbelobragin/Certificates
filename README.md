@@ -24,3 +24,4 @@ Introduction to the Biology of Cancer (Johns Hopkins University)
 7. Financial modelling for data science purpose:
 Free Cash Flow (FCF) Modeling (New York Institute of Finance)
 M&A Concepts and Theories: Advanced Topics (Johns Hopkins University)
+.
